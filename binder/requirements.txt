@@ -32,7 +32,7 @@ ipython==8.14.0
 ipywidgets==8.1.1
 isoduration==20.11.0
 jedi==0.18.2
-Jinja2==3.1.2
+# Jinja2==3.1.2
 json5==0.9.14
 jsonpointer==2.4
 jsonschema
@@ -64,7 +64,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==10.0.0
+# Pillow==10.0.0
 platformdirs==3.7.0
 pooch==1.7.0
 prometheus-client==0.17.0
